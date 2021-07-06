@@ -1,5 +1,5 @@
 PODS:
-  - Utils (0.1.0)
+  - Utils (1.2)
 
 DEPENDENCIES:
   - Utils (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Utils: de845b1a5eea5e653d66696d354f11369c8dc744
+  Utils: 0bce11b910a525a1bf4e46a0cfdea1fe78f0c549
 
 PODFILE CHECKSUM: 99660a557abb35d308103bd8de5412d6cf30624b
 

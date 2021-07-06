@@ -3,7 +3,7 @@ import Foundation
 
 public struct RepleaceMeTest {
     
-    public RepleaceMeTest() {}
+    public init() {}
     
     public func test() {
         print("Test!")
